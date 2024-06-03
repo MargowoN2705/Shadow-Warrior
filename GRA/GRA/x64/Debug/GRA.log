@@ -1,0 +1,35 @@
+﻿  GRA.cpp
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,57): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,57): warning C4244:         with
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,57): warning C4244:         [
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,57): warning C4244:             T=int
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,57): warning C4244:         ]
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,50): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,50): warning C4244:         with
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,50): warning C4244:         [
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,50): warning C4244:             T=int
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,50): warning C4244:         ]
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,44): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,44): warning C4244:         with
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,44): warning C4244:         [
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,44): warning C4244:             T=int
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,44): warning C4244:         ]
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,38): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,38): warning C4244:         with
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,38): warning C4244:         [
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,38): warning C4244:             T=int
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(375,38): warning C4244:         ]
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(377,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(377,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(498,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(498,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(502,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(502,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(524,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(524,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(798,67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(798,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(938,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(938,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\barte\OneDrive\Pulpit\Gra\GRA\GRA\GRA.cpp(1018,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  GRA.vcxproj -> C:\Users\barte\OneDrive\Pulpit\Gra\GRA\x64\Debug\GRA.exe
